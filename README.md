@@ -14,5 +14,3 @@ My research interests span across ultrasound, machine learning, physical modelin
 
 - GitHub: [github.com/astanziola](github.com/astanziola)
 - E-mail: [a.stanziola@ucl.ac.uk](a.stanziola@ucl.ac.uk)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=astanziola&show_icons=true&hide_border=true)
