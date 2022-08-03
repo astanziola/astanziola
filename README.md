@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Hello 
 
-<!--
-**astanziola/astanziola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-Expert-green)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-yellow)
+![MATLAB](https://img.shields.io/badge/MATLAB-Expert-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Research Fellow at the 🐛 [Biomedical Ultrasound Group](https://bug.medphys.ucl.ac.uk) of UCL, where I work on Deep Learning for transcranial acoustic simulations. 
+
+My research interests span across ultrasound, machine learning, physical modeling, inverse problems and differentiable programming.
+
+### 📬 Get in Touch
+
+- Website: [astanziola.github.io](https://astanziola.github.io)
+- GitHub: [github.com/astanziola](github.com/astanziola)
+- E-mail: [a.stanziola@ucl.ac.uk](a.stanziola@ucl.ac.uk)
+- Linkedin: [https://www.linkedin.com/in/antonio-stanziola-9a3645239](https://www.linkedin.com/in/antonio-stanziola-9a3645239)
+
