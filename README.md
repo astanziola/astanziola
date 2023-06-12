@@ -6,7 +6,7 @@
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-yellow)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Expert-green)
 
-I’m a Research Fellow at the 🐛 [Biomedical Ultrasound Group](https://bug.medphys.ucl.ac.uk) of UCL, where I work on Deep Learning for transcranial acoustic simulations. 
+I’m a Research Fellow at the 🐛 [Biomedical Ultrasound Group](https://bug.medphys.ucl.ac.uk) of UCL, where I work on Deep Learning, as well as Computational and Theoretical Acoustics.
 
 My research interests span across ultrasound, machine learning, physical modeling, inverse problems and differentiable programming.
 
